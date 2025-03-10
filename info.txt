@@ -1,0 +1,3 @@
+name:sharanya sandeep
+course:cse 
+prog lanhuage:python
